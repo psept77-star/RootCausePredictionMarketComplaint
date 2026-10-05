@@ -1,0 +1,101 @@
+Complaint_ID,Product_Name,Batch_No,Complaint_Narrative,Severity,Root_Cause
+COMP-SITE1-24-25-0001,PainRelief Tablet,B2026-01,Broken tablets in blister pack,Major,Packaging
+COMP-SITE1-24-25-0002,Antibiotic Syrup,B2026-02,Bottle leaked during transport,Minor,Distribution
+COMP-SITE1-24-25-0003,Vaccine Vial,B2026-03,Incorrect dosage due to faulty calibration,Critical,Manufacturing
+COMP-SITE1-24-25-0004,EyeDrops,B2026-04,Stored in sunlight  liquid discolored,Minor,Patient Misuse
+COMP-SITE1-24-25-0005,Insulin Pen,B2026-05,Foreign particle found in cartridge,Major,Manufacturing
+COMP-SITE1-24-25-0006,PainRelief Tablet,B2026-06,Label misprint on carton,Minor,Packaging
+COMP-SITE1-24-25-0007,Antibiotic Syrup,B2026-07,Cold chain not maintained during delivery,Major,Distribution
+COMP-SITE1-24-25-0008,Vaccine Vial,B2026-08,Tablet hardness inconsistent across batch,Critical,Manufacturing
+COMP-SITE1-24-25-0009,EyeDrops,B2026-09,Incorrect administration by patient,Major,Patient Misuse
+COMP-SITE1-24-25-0010,Insulin Pen,B2026-10,Seal not intact on bottle,Minor,Packaging
+COMP-SITE1-24-25-0011,PainRelief Tablet,B2026-11,Damaged carton received at pharmacy,Critical,Distribution
+COMP-SITE1-24-25-0012,Antibiotic Syrup,B2026-12,Product mixed with other medication,Major,Patient Misuse
+COMP-SITE1-24-25-0013,Vaccine Vial,B2026-13,Calibration error in filling machine,Major,Manufacturing
+COMP-SITE1-24-25-0014,EyeDrops,B2026-14,Blister pack seal broken,Minor,Packaging
+COMP-SITE1-24-25-0015,Insulin Pen,B2026-15,Transport box damaged  leakage observed,Major,Manufacturing
+COMP-SITE1-24-25-0016,PainRelief Tablet,B2026-16,Patient overdosed due to wrong usage,Minor,Patient Misuse
+COMP-SITE1-24-25-0017,Antibiotic Syrup,B2026-17,Foreign particle detected in liquid,Major,Manufacturing
+COMP-SITE1-24-25-0018,Vaccine Vial,B2026-18,Carton label faded,Major,Packaging
+COMP-SITE1-24-25-0019,EyeDrops,B2026-19,Cold chain broken during shipment,Minor,Distribution
+COMP-SITE1-24-25-0020,Insulin Pen,B2026-20,Stored in freezer  product damaged,Minor,product damaged
+COMP-SITE1-24-25-0021,PainRelief Tablet,B2026-01,Tablet coating uneven,Major,Manufacturing
+COMP-SITE1-24-25-0022,Antibiotic Syrup,B2026-02,Carton torn during handling,Minor,Packaging
+COMP-SITE1-24-25-0023,Vaccine Vial,B2026-03,Shipment delayed  temperature excursion,Critical,Distribution
+COMP-SITE1-24-25-0024,EyeDrops,B2026-04,Patient reused dropper incorrectly,Minor,Patient Misuse
+COMP-SITE1-24-25-0025,Insulin Pen,B2026-05,Granules found in solution,Critical,Manufacturing
+COMP-SITE1-24-25-0026,PainRelief Tablet,B2026-06,Carton mislabelled with wrong batch,Major,Packaging
+COMP-SITE1-24-25-0027,Antibiotic Syrup,B2026-07,Transport truck refrigeration failure,Critical,Distribution
+COMP-SITE1-24-25-0028,Vaccine Vial,B2026-08,Incorrect fill volume detected,Critical,Manufacturing
+COMP-SITE1-24-25-0029,EyeDrops,B2026-09,Patient used expired product,Minor,Patient Misuse
+COMP-SITE1-24-25-0030,Insulin Pen,B2026-10,Blister foil punctured,Major,Packaging
+COMP-SITE1-24-25-0031,PainRelief Tablet,B2026-11,Shipment box wet and damaged,Major,Distribution
+COMP-SITE1-24-25-0032,Antibiotic Syrup,B2026-12,Patient diluted syrup incorrectly,Minor,Patient Misuse
+COMP-SITE1-24-25-0033,Vaccine Vial,B2026-13,Machine calibration drift caused underfill,Critical,Manufacturing
+COMP-SITE1-24-25-0034,EyeDrops,B2026-14,Carton barcode misprint,Major,Packaging
+COMP-SITE1-24-25-0035,Insulin Pen,B2026-15,Transport delay caused spoilage,Critical,Distribution
+COMP-SITE1-24-25-0036,PainRelief Tablet,B2026-16,Patient took double dose,Critical,Patient Misuse
+COMP-SITE1-24-25-0037,Antibiotic Syrup,B2026-17,Foreign particle contamination,Critical,Manufacturing
+COMP-SITE1-24-25-0038,Vaccine Vial,B2026-18,Carton glue failed,Major,Packaging
+COMP-SITE1-24-25-0039,EyeDrops,B2026-19,Cold chain violation during air shipment,Critical,Distribution
+COMP-SITE1-24-25-0040,Insulin Pen,B2026-20,Patient stored pen in hot car,Minor,Patient Misuse
+COMP-SITE1-24-25-0041,PainRelief Tablet,B2026-01,Tablet hardness inconsistent across batch,Critical,Manufacturing
+COMP-SITE1-24-25-0042,Antibiotic Syrup,B2026-02,Seal broken on carton,Major,Packaging
+COMP-SITE1-24-25-0043,Vaccine Vial,B2026-03,Shipment delayed product spoiled,Critical,Distribution
+COMP-SITE1-24-25-0044,EyeDrops,B2026-04,Patient stored drops in freezer,Minor,Patient Misuse
+COMP-SITE1-24-25-0045,Insulin Pen,B2026-05,Incorrect fill volume,Critical,Manufacturing
+COMP-SITE1-24-25-0046,PainRelief Tablet,B2026-06,Carton glue failed,Major,Packaging
+COMP-SITE1-24-25-0047,Antibiotic Syrup,B2026-07,Transport box damaged,Critical,Distribution
+COMP-SITE1-24-25-0048,Vaccine Vial,B2026-08,Patient overdosed due to wrong usage,Critical,Patient Misuse
+COMP-SITE1-24-25-0049,Vaccine Vial,B2026-09,Incorrect stopper placement caused leakage,Critical,Manufacturing
+COMP-SITE1-24-25-0050,EyeDrops,B2026-10,Carton misaligned during packing,Major,Packaging
+COMP-SITE1-24-25-0051,Insulin Pen,B2026-11,Shipment exposed to heat,Critical,Distribution
+COMP-SITE1-24-25-0052,PainRelief Tablet,B2026-12,Patient crushed tablets before use,Minor,Patient Misuse
+COMP-SITE1-24-25-0053,Antibiotic Syrup,B2026-13,Foreign particle detected in syrup,Critical,Manufacturing
+COMP-SITE1-24-25-0054,Vaccine Vial,B2026-14,Carton printing error,Major,Packaging
+COMP-SITE1-24-25-0055,EyeDrops,B2026-15,Cold chain violation during truck transport,Critical,Distribution
+COMP-SITE1-24-25-0056,Insulin Pen,B2026-16,Patient reused needle incorrectly,Minor,Patient Misuse
+COMP-SITE1-24-25-0057,PainRelief Tablet,B2026-17,Tablet weight variation,Critical,Manufacturing
+COMP-SITE1-24-25-0058,Antibiotic Syrup,B2026-18,Seal broken on carton,Major,Packaging
+COMP-SITE1-24-25-0059,Vaccine Vial,B2026-19,Shipment delayed  product spoiled,Critical,Distribution
+COMP-SITE1-24-25-0060,EyeDrops,B2026-20,Patient stored drops in freezer,Minor,Patient Misuse
+COMP-SITE1-24-25-0061,Insulin Pen,B2026-01,Incorrect fill volume,Critical,Manufacturing
+COMP-SITE1-24-25-0062,PainRelief Tablet,B2026-02,Carton glue failed,Major,Packaging
+COMP-SITE1-24-25-0063,Antibiotic Syrup,B2026-03,Transport box damaged,Critical,Distribution
+COMP-SITE1-24-25-0064,Vaccine Vial,B2026-04,Patient overdosed due to wrong usage,Critical,Patient Misuse
+COMP-SITE1-24-25-0065,EyeDrops,B2026-05,Foreign particle contamination,Critical,Manufacturing
+COMP-SITE1-24-25-0066,Insulin Pen,B2026-06,Label misprint,Major,Packaging
+COMP-SITE1-24-25-0067,PainRelief Tablet,B2026-07,Cold chain not maintained,Critical,Distribution
+COMP-SITE1-24-25-0068,Antibiotic Syrup,B2026-08,Patient mixed syrup with other medicine,Minor,Patient Misuse
+COMP-SITE1-24-25-0069,Vaccine Vial,B2026-09,Calibration error in filling machine,Critical,Manufacturing
+COMP-SITE1-24-25-0070,EyeDrops,B2026-10,Carton barcode misprint,Major,Packaging
+COMP-SITE1-24-25-0071,Insulin Pen,B2026-11,Transport delay caused spoilage,Critical,Distribution
+COMP-SITE1-24-25-0072,PainRelief Tablet,B2026-12,Patient took double dose,Critical,Patient Misuse
+COMP-SITE1-24-25-0073,Antibiotic Syrup,B2026-13,Granules found in solution,Critical,Manufacturing
+COMP-SITE1-24-25-0074,Vaccine Vial,B2026-14,Carton torn during handling,Major,Packaging
+COMP-SITE1-24-25-0075,EyeDrops,B2026-15,Shipment box wet and damaged,Major,Distribution
+COMP-SITE1-24-25-0076,Insulin Pen,B2026-16,Patient reused dropper incorrectly,Minor,Patient Misuse
+COMP-SITE1-24-25-0077,PainRelief Tablet,B2026-17,Incorrect dosage due to faulty calibration,Critical,Manufacturing
+COMP-SITE1-24-25-0078,Antibiotic Syrup,B2026-18,Blister pack seal broken,Major,Packaging
+COMP-SITE1-24-25-0079,Vaccine Vial,B2026-19,Cold chain broken during shipment,Critical,Distribution
+COMP-SITE1-24-25-0080,EyeDrops,B2026-20,Stored in sunlight liquid discolored,Minor,Patient Misuse
+COMP-SITE1-24-25-0081,Insulin Pen,B2026-01,Foreign particle found in cartridge,Critical,Manufacturing
+COMP-SITE1-24-25-0082,PainRelief Tablet,B2026-02,Label misprint on carton,Major,Packaging
+COMP-SITE1-24-25-0083,Antibiotic Syrup,B2026-03,Cold chain not maintained during delivery,Critical,Distribution
+COMP-SITE1-24-25-0084,Vaccine Vial,B2026-04,Incorrect administration by patient,Minor,Patient Misuse
+COMP-SITE1-24-25-0085,EyeDrops,B2026-05,Tablet hardness inconsistent across batch,Major,Manufacturing
+COMP-SITE1-24-25-0086,Insulin Pen,B2026-06,Seal not intact on bottle,Major,Packaging
+COMP-SITE1-24-25-0087,PainRelief Tablet,B2026-07,Damaged carton received at pharmacy,Minor,Distribution
+COMP-SITE1-24-25-0088,Antibiotic Syrup,B2026-08,Product mixed with other medication,Minor,Patient Misuse
+COMP-SITE1-24-25-0089,Vaccine Vial,B2026-09,Calibration error in filling machine,Critical,Manufacturing
+COMP-SITE1-24-25-0090,EyeDrops,B2026-10,Blister pack seal broken,Major,Packaging
+COMP-SITE1-24-25-0091,Insulin Pen,B2026-11,Transport box damaged  leakage observed,Major,Distribution
+COMP-SITE1-24-25-0092,PainRelief Tablet,B2026-12,Patient overdosed due to wrong usage,Critical,Patient Misuse
+COMP-SITE1-24-25-0093,Antibiotic Syrup,B2026-13,Foreign particle detected in liquid,Critical,Manufacturing
+COMP-SITE1-24-25-0094,Vaccine Vial,B2026-14,Carton label faded,Major,Packaging
+COMP-SITE1-24-25-0095,EyeDrops,B2026-15,Cold chain broken during shipment,Critical,Distribution
+COMP-SITE1-24-25-0096,Insulin Pen,B2026-16,Stored in freezer product damaged,Minor,Patient Misuse
+COMP-SITE1-24-25-0097,PainRelief Tablet,B2026-17,Tablet coating uneven,Critical,Manufacturing
+COMP-SITE1-24-25-0098,Antibiotic Syrup,B2026-18,Carton torn during handling,Major,Packaging
+COMP-SITE1-24-25-0099,Vaccine Vial,B2026-19,Shipment delayed  temperature excursion,Critical,Distribution
+COMP-SITE1-24-25-0100,EyeDrops,B2026-20,Patient reused dropper incorrectly,Minor,Patient Misuse
